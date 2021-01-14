@@ -3,7 +3,7 @@ package mysql
 import (
 	"encoding/binary"
 
-	"github.com/Luohy01/go-mysql/utils"
+	"github.com/Luohy01/gomysql/utils"
 )
 
 type FieldData []byte

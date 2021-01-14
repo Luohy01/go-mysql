@@ -13,8 +13,8 @@ import (
 	"crypto/x509"
 	"encoding/pem"
 
-	. "github.com/Luohy01/go-mysql/mysql"
-	"github.com/Luohy01/go-mysql/utils"
+	. "github.com/Luohy01/gomysql/mysql"
+	"github.com/Luohy01/gomysql/utils"
 	"github.com/pingcap/errors"
 )
 

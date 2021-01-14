@@ -9,8 +9,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/Luohy01/go-mysql/client"
-	"github.com/Luohy01/go-mysql/mysql"
+	"github.com/Luohy01/gomysql/client"
+	"github.com/Luohy01/gomysql/mysql"
 	"github.com/pingcap/errors"
 	"github.com/siddontang/go/hack"
 )

@@ -1,8 +1,8 @@
 package canal
 
 import (
-	"github.com/Luohy01/go-mysql/mysql"
-	"github.com/Luohy01/go-mysql/replication"
+	"github.com/Luohy01/gomysql/mysql"
+	"github.com/Luohy01/gomysql/replication"
 )
 
 type EventHandler interface {

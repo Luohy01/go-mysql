@@ -3,7 +3,7 @@ package mysql
 import (
 	"strconv"
 
-	"github.com/Luohy01/go-mysql/utils"
+	"github.com/Luohy01/gomysql/utils"
 	"github.com/pingcap/errors"
 )
 

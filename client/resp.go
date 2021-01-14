@@ -7,8 +7,8 @@ import (
 	"encoding/binary"
 	"encoding/pem"
 
-	. "github.com/Luohy01/go-mysql/mysql"
-	"github.com/Luohy01/go-mysql/utils"
+	. "github.com/Luohy01/gomysql/mysql"
+	"github.com/Luohy01/gomysql/utils"
 	"github.com/pingcap/errors"
 	"github.com/siddontang/go/hack"
 )

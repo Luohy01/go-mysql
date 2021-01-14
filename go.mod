@@ -1,4 +1,4 @@
-module github.com/Luohy01/go-mysql
+module github.com/Luohy01/gomysql
 
 go 1.15
 
