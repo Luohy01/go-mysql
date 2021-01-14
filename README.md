@@ -1,6 +1,6 @@
-###go-mysql
+### go-mysql ###
 
 A pure go library to handle MySQL network protocol and replication.
 
-###Thank
+### Thank ###
 * [go-mysql](github.com/siddontang/go-mysql)
